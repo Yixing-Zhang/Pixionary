@@ -10,12 +10,16 @@
   line-height:normal;
   text-transform:none;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .box_1 {
 }
 .box_2 {
 }
 .refs-design-material {
-  font-family:'NotoSansCJKsc-Regular', 'Noto Sans CJK SC';
+  font-family:'Noto Sans CJK SC ', 'Noto Sans CJK SC';
   font-weight:400;
   font-style:normal;
 }
@@ -74,6 +78,8 @@
 .list_box {
   color:#000000;
   text-align:left;
+}
+.flow_shape {
 }
 .connector {
 }
