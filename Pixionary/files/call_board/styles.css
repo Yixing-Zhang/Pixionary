@@ -593,7 +593,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:91px;
+  width:61px;
   height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -605,6 +605,7 @@
   font-family:'Georgia Normal', 'Georgia';
   font-weight:400;
   font-style:normal;
+  font-size:12px;
   color:#464646;
   text-align:left;
 }
@@ -613,12 +614,13 @@
   position:absolute;
   left:178px;
   top:240px;
-  width:91px;
+  width:61px;
   height:14px;
   display:flex;
   font-family:'Georgia Normal', 'Georgia';
   font-weight:400;
   font-style:normal;
+  font-size:12px;
   color:#464646;
   text-align:left;
 }
@@ -3062,7 +3064,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:89px;
+  width:63px;
   height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3074,6 +3076,7 @@
   font-family:'Georgia Normal', 'Georgia';
   font-weight:400;
   font-style:normal;
+  font-size:12px;
   color:#464646;
   text-align:left;
 }
@@ -3082,12 +3085,13 @@
   position:absolute;
   left:179px;
   top:579px;
-  width:89px;
+  width:63px;
   height:14px;
   display:flex;
   font-family:'Georgia Normal', 'Georgia';
   font-weight:400;
   font-style:normal;
+  font-size:12px;
   color:#464646;
   text-align:left;
 }
@@ -3784,7 +3788,7 @@
 #u671 {
   position:absolute;
   left:24px;
-  top:60px;
+  top:63px;
   visibility:hidden;
 }
 #u671_state0 {
